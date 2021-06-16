@@ -1,2 +1,2 @@
-Bonne journée !
-J'espère que vous allez bien ?
+Bonjour
+Comment allez-vous?
